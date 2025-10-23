@@ -1,0 +1,648 @@
+{
+  "zone": {
+    "id": "4",
+    "name": "右方区：思维扩展区",
+    "description": "思维扩展区包含四个主要部分：先天自我开发程度、后天自我探索程度、突破先天自我程度和综合拓展部分。",
+    "notes": [
+      ""
+    ]
+  },
+  "hierarchy": [
+    {
+      "id": "41",
+      "level": 2,
+      "name": "第一部分：先天自我开发程度",
+      "description": "在先天配置中，个体前世累积的、已经开发和探索到的未知自我意识的深度。",
+      "note": "量化数据：人类平均60%（正值。以下不标注者，均为正值）。",
+      "parent_id": null,
+      "is_card": false,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 60,
+            "max": 60
+          },
+          "population": "average",
+          "note": "正值"
+        },
+        "unit": "percent"
+      }
+    },
+    {
+      "id": "41001",
+      "level": 3,
+      "name": "1、左右脑平衡度",
+      "description": "左右脑的开发程度是否平衡。左脑过强或者右脑过强，都不利于个体的灵性提升。",
+      "note": "",
+      "parent_id": "41",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 50,
+            "max": 50
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/41001.png",
+          "description": "res://assets/descriptions/41001.png"
+        },
+        "text": {
+          "name": "左右脑平衡度",
+          "description": "左右脑的开发程度是否平衡。左脑过强或者右脑过强，都不利于个体的灵性提升。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "41002",
+      "level": 3,
+      "name": "2、左脑开发程度",
+      "description": "左脑相关功能的先天开发程度。如分析、推理、逻辑、计算能力等等。",
+      "note": "",
+      "parent_id": "41",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 60,
+            "max": 85
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/41002.png",
+          "description": "res://assets/descriptions/41002.png"
+        },
+        "text": {
+          "name": "左脑开发程度",
+          "description": "左脑相关功能的先天开发程度。如分析、推理、逻辑、计算能力等等。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "41003",
+      "level": 3,
+      "name": "3、右脑开发程度",
+      "description": "右脑相关功能的先天开发程度。如直觉、图像思维等等。",
+      "note": "",
+      "parent_id": "41",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 30,
+            "max": 60
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/41003.png",
+          "description": "res://assets/descriptions/41003.png"
+        },
+        "text": {
+          "name": "右脑开发程度",
+          "description": "右脑相关功能的先天开发程度。如直觉、图像思维等等。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "41004",
+      "level": 3,
+      "name": "4、双脑整合程度",
+      "description": "左右脑在平时使用中的协调整合能力。",
+      "note": "",
+      "parent_id": "41",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 50,
+            "max": 60
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/41004.png",
+          "description": "res://assets/descriptions/41004.png"
+        },
+        "text": {
+          "name": "双脑整合程度",
+          "description": "左右脑在平时使用中的协调整合能力。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "42",
+      "level": 2,
+      "name": "第二部分：后天自我探索程度",
+      "description": "个体在今世，目前实际已探索到多少未知自我的深度。此检测点和先天的对应。",
+      "note": "量化数据：人类大部分在40-50%。",
+      "parent_id": null,
+      "is_card": false,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 40,
+            "max": 50
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      }
+    },
+    {
+      "id": "42001",
+      "level": 3,
+      "name": "1、左右脑平衡程度",
+      "description": "左右脑的探索程度是否平衡。左脑过强或者右脑过强，都不利于个体的灵性提升。",
+      "note": "",
+      "parent_id": "42",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 30,
+            "max": 40
+          },
+          "population": "average",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/42001.png",
+          "description": "res://assets/descriptions/42001.png"
+        },
+        "text": {
+          "name": "左右脑平衡程度",
+          "description": "左右脑的探索程度是否平衡。左脑过强或者右脑过强，都不利于个体的灵性提升。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "42002",
+      "level": 3,
+      "name": "2、左脑开发程度",
+      "description": "左脑相关功能的实际开发程度。如分析、推理、逻辑、计算能力等等。",
+      "note": "",
+      "parent_id": "42",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 60,
+            "max": 80
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/42002.png",
+          "description": "res://assets/descriptions/42002.png"
+        },
+        "text": {
+          "name": "左脑开发程度",
+          "description": "左脑相关功能的实际开发程度。如分析、推理、逻辑、计算能力等等。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "42003",
+      "level": 3,
+      "name": "3、右脑开发程度",
+      "description": "右脑相关功能的实际开发程度。如直觉、图像思维等等。",
+      "note": "",
+      "parent_id": "42",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 30,
+            "max": 40
+          },
+          "population": "average",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/42003.png",
+          "description": "res://assets/descriptions/42003.png"
+        },
+        "text": {
+          "name": "右脑开发程度",
+          "description": "右脑相关功能的实际开发程度。如直觉、图像思维等等。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "42004",
+      "level": 3,
+      "name": "4、双脑整合程度",
+      "description": "左右脑在平时使用中的协调整合能力。",
+      "note": "",
+      "parent_id": "42",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 50,
+            "max": 60
+          },
+          "population": "average",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/42004.png",
+          "description": "res://assets/descriptions/42004.png"
+        },
+        "text": {
+          "name": "双脑整合程度",
+          "description": "左右脑在平时使用中的协调整合能力。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "43",
+      "level": 2,
+      "name": "第三部分：突破先天自我程度",
+      "description": "指个体能够超越先天已探索的部分的程度。",
+      "note": "",
+      "parent_id": null,
+      "is_card": false
+    },
+    {
+      "id": "43001",
+      "level": 3,
+      "name": "1、先天设定可超越的程度",
+      "description": "投胎初始设置中，能否超越原有自我探索的程度、到达新高度。",
+      "note": "",
+      "parent_id": "43",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 10,
+            "max": 20
+          },
+          "population": "majority",
+          "note": "增加值：超过先天100%的部分"
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/43001.png",
+          "description": "res://assets/descriptions/43001.png"
+        },
+        "text": {
+          "name": "先天设定可超越的程度",
+          "description": "投胎初始设置中，能否超越原有自我探索的程度、到达新高度。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "43002",
+      "level": 3,
+      "name": "2、已突破先天的程度",
+      "description": "在实际探索中，是否已经突破了前世累积未达到的新深度。",
+      "note": "",
+      "parent_id": "43",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 0,
+            "max": 10
+          },
+          "population": "majority",
+          "note": "增加值：超过先天100%的部分。人类基本在0=10%。以上两个值，如果写成100-120%也可以。"
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/43002.png",
+          "description": "res://assets/descriptions/43002.png"
+        },
+        "text": {
+          "name": "已突破先天的程度",
+          "description": "在实际探索中，是否已经突破了前世累积未达到的新深度。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "44",
+      "level": 2,
+      "name": "第四部分：综合拓展部分",
+      "description": "属于其它部分，无综合数值。",
+      "note": "",
+      "parent_id": null,
+      "is_card": false
+    },
+    {
+      "id": "44001",
+      "level": 3,
+      "name": "1、理解事物的能力（智力水平）",
+      "description": "能够通过观察和学习，理解事物的概念和原理。",
+      "note": "",
+      "parent_id": "44",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 60,
+            "max": 80
+          },
+          "population": "majority",
+          "note": "人类普遍60-80%"
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/44001.png",
+          "description": "res://assets/descriptions/44001.png"
+        },
+        "text": {
+          "name": "理解事物的能力（智力水平）",
+          "description": "能够通过观察和学习，理解事物的概念和原理。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "44002",
+      "level": 3,
+      "name": "2、理解他人的能力",
+      "description": "通过观察、倾听和直觉，能够理解他人的心态和处境。",
+      "note": "",
+      "parent_id": "44",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 40,
+            "max": 50
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/44002.png",
+          "description": "res://assets/descriptions/44002.png"
+        },
+        "text": {
+          "name": "理解他人的能力",
+          "description": "通过观察、倾听和直觉，能够理解他人的心态和处境。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "44003",
+      "level": 3,
+      "name": "3、接受新事物的能力",
+      "description": "能够不受固有观念限制，愿意尝试接触新事物。",
+      "note": "",
+      "parent_id": "44",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 40,
+            "max": 60
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/44003.png",
+          "description": "res://assets/descriptions/44003.png"
+        },
+        "text": {
+          "name": "接受新事物的能力",
+          "description": "能够不受固有观念限制，愿意尝试接触新事物。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "44004",
+      "level": 3,
+      "name": "4、接纳他人的能力",
+      "description": "在社会交往中，能否消除偏见，理解和接纳不同的人。",
+      "note": "",
+      "parent_id": "44",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 30,
+            "max": 50
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/44004.png",
+          "description": "res://assets/descriptions/44004.png"
+        },
+        "text": {
+          "name": "接纳他人的能力",
+          "description": "在社会交往中，能否消除偏见，理解和接纳不同的人。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "44005",
+      "level": 3,
+      "name": "5、融入集体的能力",
+      "description": "能否适应和融入各种团体和集体意识中，在集体中既能够保持自我，又能平衡处理与集体的关系。",
+      "note": "",
+      "parent_id": "44",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 60,
+            "max": 70
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/44005.png",
+          "description": "res://assets/descriptions/44005.png"
+        },
+        "text": {
+          "name": "融入集体的能力",
+          "description": "能否适应和融入各种团体和集体意识中，在集体中既能够保持自我，又能平衡处理与集体的关系。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "44006",
+      "level": 3,
+      "name": "6、影响他人的能力",
+      "description": "在团体和社会交往中，通过自己的言行，能够慢慢影响周围其他人，得到他人信赖，并可以引领团体走向。",
+      "note": "大部分是20-50%，少部分是60-80%",
+      "parent_id": "44",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 20,
+            "max": 80
+          },
+          "population": "majority",
+          "note": "大部分是20-50%，少部分是60-80%"
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/44006.png",
+          "description": "res://assets/descriptions/44006.png"
+        },
+        "text": {
+          "name": "影响他人的能力",
+          "description": "在团体和社会交往中，通过自己的言行，能够慢慢影响周围其他人，得到他人信赖，并可以引领团体走向。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "44007",
+      "level": 3,
+      "name": "7、独立思考的能力",
+      "description": "能够不受他人角度所限和影响，综合全面地分析事物，也能够发现新的角度。",
+      "note": "",
+      "parent_id": "44",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 40,
+            "max": 60
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/44007.png",
+          "description": "res://assets/descriptions/44007.png"
+        },
+        "text": {
+          "name": "独立思考的能力",
+          "description": "能够不受他人角度所限和影响，综合全面地分析事物，也能够发现新的角度。"
+        }
+      },
+      "zone_position": "right"
+    },
+    {
+      "id": "44008",
+      "level": 3,
+      "name": "8、高瞻远瞩的能力",
+      "description": "能够不拘泥于眼前事物的现状，能够多角度、多层次、更深远地看待事物和问题。",
+      "note": "",
+      "parent_id": "44",
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 30,
+            "max": 60
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/44008.png",
+          "description": "res://assets/descriptions/44008.png"
+        },
+        "text": {
+          "name": "高瞻远瞩的能力",
+          "description": "能够不拘泥于眼前事物的现状，能够多角度、多层次、更深远地看待事物和问题。"
+        }
+      },
+      "zone_position": "right"
+    }
+  ]
+}

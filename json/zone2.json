@@ -1,0 +1,586 @@
+{
+  "zone": {
+    "id": "2",
+    "name": "上方区：自主意识区",
+    "description": "根据个体投胎计划，程序设定的初始数值。一般需要缓慢提升。",
+    "notes": []
+  },
+  "hierarchy": [
+    {
+      "id": "20001",
+      "level": 2,
+      "name": "1、核心能量发挥率",
+      "description": "指复合体所携带的能量的发挥率，类似于一个人的体力发挥率。数值越高，越有力量扭转机器意识。最高可设定80-90%，最低不能低于40%，根据个体投胎计划设定。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 40,
+            "max": 60
+          },
+          "population": "majority",
+          "note": "正值"
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20001.png",
+          "description": "res://assets/descriptions/20001.png"
+        },
+        "text": {
+          "name": "核心能量发挥率",
+          "description": "指复合体所携带的能量的发挥率，类似于一个人的体力发挥率。数值越高，越有力量扭转机器意识。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20002",
+      "level": 2,
+      "name": "2、复合体协作能力",
+      "description": "指复合体团队的合作力，能否顺利处理和协调各种临时状况。灵体们的合作也需要磨合与成长，也是体验和学习的一环。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 40,
+            "max": 70
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20002.png",
+          "description": "res://assets/descriptions/20002.png"
+        },
+        "text": {
+          "name": "复合体协作能力",
+          "description": "指复合体团队的合作力，能否顺利处理和协调各种临时状况。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20003",
+      "level": 2,
+      "name": "3、灵活切换能力",
+      "description": "指在不同场景或状态中切换的能力，能否同时应对不同场景。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 30,
+            "max": 70
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20003.png",
+          "description": "res://assets/descriptions/20003.png"
+        },
+        "text": {
+          "name": "灵活切换能力",
+          "description": "指在不同场景或状态中切换的能力，能否同时应对不同场景。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20004",
+      "level": 2,
+      "name": "4、冷静处理能力",
+      "description": "在面对较为复杂棘手的情况时，能否排除外在干扰，冷静处理并给出自己的应对方案。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 30,
+            "max": 70
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20004.png",
+          "description": "res://assets/descriptions/20004.png"
+        },
+        "text": {
+          "name": "冷静处理能力",
+          "description": "在面对较为复杂棘手的情况时，能否排除外在干扰，冷静处理并给出自己的应对方案。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20005",
+      "level": 2,
+      "name": "5、挫折应激能力",
+      "description": "面对挫折来临时的态度和意识状况，能否将挫折成功转化利用。是从挫折中吸取经验、越挫越勇；还是屡屡失败、愈加消沉、自暴自弃。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 30,
+            "max": 80
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20005.png",
+          "description": "res://assets/descriptions/20005.png"
+        },
+        "text": {
+          "name": "挫折应激能力",
+          "description": "面对挫折来临时的态度和意识状况，能否将挫折成功转化利用。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20006",
+      "level": 2,
+      "name": "6、沉迷拔出能力",
+      "description": "能否从沉迷某事物中脱离出来，避免或者摆脱成瘾状况。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 30,
+            "max": 60
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20006.png",
+          "description": "res://assets/descriptions/20006.png"
+        },
+        "text": {
+          "name": "沉迷拔出能力",
+          "description": "能否从沉迷某事物中脱离出来，避免或者摆脱成瘾状况。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20007",
+      "level": 2,
+      "name": "7、他人共情能力",
+      "description": "对他人能有多少共情理解。数值高的，更加善解人意。数值过高的，在其它状况不平衡时，容易过于感性。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 40,
+            "max": 70
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20007.png",
+          "description": "res://assets/descriptions/20007.png"
+        },
+        "text": {
+          "name": "他人共情能力",
+          "description": "对他人能有多少共情理解。数值高的，更加善解人意。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20008",
+      "level": 2,
+      "name": "8、静心独处能力",
+      "description": "能否享受安静独处状态的能力。换言之：能否暂时放下心智、以更容易向内去思索的能力。数值低，则会觉得无聊，无法忍受独处，总想做点什么。很多人一刻也静不下来，独处也不能静心，习惯于向外寻求刺激。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 20,
+            "max": 80
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20008.png",
+          "description": "res://assets/descriptions/20008.png"
+        },
+        "text": {
+          "name": "静心独处能力",
+          "description": "能否享受安静独处状态的能力。能否暂时放下心智、以更容易向内去思索的能力。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20009",
+      "level": 2,
+      "name": "9、自我释放能力",
+      "description": "能否暂时放下思想束缚，放纵一下自己、沉浸到可释放压力的场景中。换言之：能否暂时解脱、与真我一起共舞的能力。数值高，抗压能力较强，能够通过释放来调整自己的状态。数值低，则过于拘谨，无法放开自己。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 20,
+            "max": 80
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20009.png",
+          "description": "res://assets/descriptions/20009.png"
+        },
+        "text": {
+          "name": "自我释放能力",
+          "description": "能否暂时放下思想束缚，放纵一下自己、沉浸到可释放压力的场景中。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20010",
+      "level": 2,
+      "name": "10、独立思维能力",
+      "description": "能否不受外界信息影响、独立思考问题的能力。保持合理怀疑，不轻易下判断。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 20,
+            "max": 70
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20010.png",
+          "description": "res://assets/descriptions/20010.png"
+        },
+        "text": {
+          "name": "独立思维能力",
+          "description": "能否不受外界信息影响、独立思考问题的能力。保持合理怀疑，不轻易下判断。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20011",
+      "level": 2,
+      "name": "11、宏观观察能力",
+      "description": "能否从大局角度观察事件和场景，并能找到自己所处的位置。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 30,
+            "max": 60
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20011.png",
+          "description": "res://assets/descriptions/20011.png"
+        },
+        "text": {
+          "name": "宏观观察能力",
+          "description": "能否从大局角度观察事件和场景，并能找到自己所处的位置。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20012",
+      "level": 2,
+      "name": "12、细节觉察能力",
+      "description": "能否更为细致的发现某些细节部分，找到问题关键所在。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 40,
+            "max": 70
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20012.png",
+          "description": "res://assets/descriptions/20012.png"
+        },
+        "text": {
+          "name": "细节觉察能力",
+          "description": "能否更为细致的发现某些细节部分，找到问题关键所在。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20013",
+      "level": 2,
+      "name": "13、自我修正能力",
+      "description": "发现自己的问题后，能否及时有效地调整自己，并能够觉察意识惯性的持续影响。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 20,
+            "max": 70
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20013.png",
+          "description": "res://assets/descriptions/20013.png"
+        },
+        "text": {
+          "name": "自我修正能力",
+          "description": "发现自己的问题后，能否及时有效地调整自己，并能够觉察意识惯性的持续影响。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20014",
+      "level": 2,
+      "name": "14、直觉感受能力",
+      "description": "能否感受到第六感，并且相信和重视自己的直觉，在处理事情和决策中，将直觉也作为重要参考。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 40,
+            "max": 60
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20014.png",
+          "description": "res://assets/descriptions/20014.png"
+        },
+        "text": {
+          "name": "直觉感受能力",
+          "description": "能否感受到第六感，并且相信和重视自己的直觉，在处理事情和决策中，将直觉也作为重要参考。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20015",
+      "level": 2,
+      "name": "15、尊重他人能力",
+      "description": "能否看待每个人为平等独立的个体，尊重对方与自己不同的地方，不被偏见所左右，不下主观评判。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 20,
+            "max": 50
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20015.png",
+          "description": "res://assets/descriptions/20015.png"
+        },
+        "text": {
+          "name": "尊重他人能力",
+          "description": "能否看待每个人为平等独立的个体，尊重对方与自己不同的地方，不被偏见所左右，不下主观评判。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20016",
+      "level": 2,
+      "name": "16、复合体意愿统一度",
+      "description": "日常中，复合体是否经常意愿一致，是否经常有矛盾的意愿出现，矛盾出现时能否迅速协调一致。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 40,
+            "max": 60
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20016.png",
+          "description": "res://assets/descriptions/20016.png"
+        },
+        "text": {
+          "name": "复合体意愿统一度",
+          "description": "日常中，复合体是否经常意愿一致，是否经常有矛盾的意愿出现，矛盾出现时能否迅速协调一致。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20017",
+      "level": 2,
+      "name": "17、信息整理能力",
+      "description": "能否将庞杂混乱的信息清晰理顺，方便自己查找和阅读。在头脑中也是一样，是否能形成系统化存储。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 50,
+            "max": 80
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20017.png",
+          "description": "res://assets/descriptions/20017.png"
+        },
+        "text": {
+          "name": "信息整理能力",
+          "description": "能否将庞杂混乱的信息清晰理顺，方便自己查找和阅读。在头脑中也是一样，是否能形成系统化存储。"
+        }
+      },
+      "zone_position": "top"
+    },
+    {
+      "id": "20018",
+      "level": 2,
+      "name": "18、信息过滤能力",
+      "description": "能否知道哪些信息和事物是自己不需要、不适合的，先将它们过滤掉，再从剩下的信息和事物中发现自己真正需要的。需要凭借对自己的了解度和对目标的理解度来进行过滤。需要更多了解自身以及想要达成的目标。",
+      "note": "",
+      "parent_id": null,
+      "is_card": true,
+      "metrics": {
+        "self": {
+          "type": "range",
+          "value": {
+            "min": 30,
+            "max": 60
+          },
+          "population": "majority",
+          "note": ""
+        },
+        "unit": "percent"
+      },
+      "display": {
+        "image": {
+          "name": "res://assets/cards/20018.png",
+          "description": "res://assets/descriptions/20018.png"
+        },
+        "text": {
+          "name": "信息过滤能力",
+          "description": "能否知道哪些信息和事物是自己不需要、不适合的，先将它们过滤掉，再从剩下的信息和事物中发现自己真正需要的。"
+        }
+      },
+      "zone_position": "top"
+    }
+  ]
+}
