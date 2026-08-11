@@ -2,8 +2,6 @@
 
 原创 元吾氏 [元吾氏反催眠游戏](javascript:void(0);) *2020年12月30日 23:20*
 
-
-
 **（2019年第三版大众版）**
 
 **【元吾氏催醒法研究】**
@@ -17,8 +15,6 @@
  
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/baVxVzY2FC23Lc7vHnfGrfuINHfmYeISjVydFNA9SxiaQRROmWtQv2GrgEs1DG8g4U5gialxR2IMsU0cibPfwZV0g/640?wx_fmt=png&wxfrom=13&tp=wxpic)
-
-
 
 如上图所示，目前人类对肉体DNA已经有了一些研究，不赘述。以下重点描述目前人类尚未研究的部分。
 
@@ -54,7 +50,7 @@ DNA的原始模板经历了很多代的发展，有很多不同类型游戏技�
 
 再到后来，被1组（一个催眠战略组织，是催眠运营组织T组的上家）利用，专门往限制性的游戏方向进行研发，已经有悠久的历史了。
 
-（关于T组，请参考元吾氏博文[《轮回是否存在》](http://mp.weixin.qq.com/s?__biz=MzAwNzU5MTY5Ng==&mid=2649569798&idx=3&sn=6a245518348de2cf6c9f221ebb893339&chksm=83625879b415d16ff9f284e1f2f57967d79bbb3e5efa1b4832e1d37e2befdcd8c81e9aef69d8&scene=21#wechat_redirect)。）
+（关于T组，请参考元吾氏博文[《轮回是否存在》](https://mp.weixin.qq.com/s?mid=2649569798&idx=3&sn=6a245518348de2cf6c9f221ebb893339)。）
 
  
 
@@ -70,7 +66,7 @@ DNA的原始模板经历了很多代的发展，有很多不同类型游戏技�
 
 DNA植入纯灵魂，会有一个意识强度的阈值限制，需要纯灵魂在意识强度13级或以下。如果高于这个意识强度数值，则无法植入DNA。
 
-（关于意识强度，请参考元吾氏博文[《意识强度是什么》](http://mp.weixin.qq.com/s?__biz=MzAwNzU5MTY5Ng==&mid=2649569995&idx=1&sn=d79b90d5269e3dbfad7bf65cef36e64b&chksm=836258b4b415d1a29fe0cc18f53ffa7b3df0962adc56cf17eaef5c56f8cf8df397c377628862&scene=21#wechat_redirect)。）
+（关于意识强度，请参考元吾氏博文[《意识强度是什么》](https://mp.weixin.qq.com/s?mid=2649569995&idx=1&sn=d79b90d5269e3dbfad7bf65cef36e64b)。）
 
  
 
@@ -91,10 +87,6 @@ DNA植入纯灵魂，会有一个意识强度的阈值限制，需要纯灵魂�
  
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/baVxVzY2FC23Lc7vHnfGrfuINHfmYeISVjzBLbORba3uTqcawNcKiaIA4LNOKJAicOrnnRJavYgcLFvXCctjo51Q/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
-
-
 
 ### 4）感应机制
 
@@ -117,10 +109,6 @@ DNA对这种修改也有一个保护机制，来抑制传染。比如：把变�
  
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/baVxVzY2FC23Lc7vHnfGrfuINHfmYeIS1Y4FVftdWmVpa82PmI1aOfu8ojauXHR8J2icoeuiawbXxxBeRUkqhVcw/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
-
-
 
 ## 二、DNA整体结构
 
@@ -145,8 +133,6 @@ DNA对这种修改也有一个保护机制，来抑制传染。比如：把变�
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/baVxVzY2FC23Lc7vHnfGrfuINHfmYeISCq45e8Vs10uwavnLmichVGESYUM6ENia9TEL77tk4GCym8Mrg29v8ziaw/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ### 2）整体结构
-
-
 
 **整体结构**：一排排DNA整体像球体，DNA分布在球体外层，彼此有线条相互连接，排列12对，序列1-12。
 
@@ -198,15 +184,11 @@ T组催眠的最低实验数据在0.5-0.7级之间，个体在沉睡过程中的
 
 人类DNA集体大球和动物DNA集体大球，也是相互链接成一体的。各种生物的“总DNA大球”同时重叠性地包含各种生物所在的各种宇宙和宇宙群。
 
-
-
 换言之，所有的DNA，是相互连成一体的，不论是在任何宇宙中的任何生物，并且由DNA委员会统一管理和制定规则。
 
  
 
 ### 3）如何破解？
-
-
 
 **破解要点**：破解中轴信息加密。
 
@@ -281,8 +263,6 @@ T组催眠的最低实验数据在0.5-0.7级之间，个体在沉睡过程中的
 自动复原时间：大约一周。
 
 **插图：**
-
-
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/baVxVzY2FC23Lc7vHnfGrfuINHfmYeISibAmpTbRp6icTs1WM0rWrJOQNeooib4tTv2icJw5ILSjwZL5QgY7PnTAibQ/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -434,8 +414,6 @@ T组的影响主要是对连接过程制造混乱、变形、影响信息传输�
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/baVxVzY2FC23Lc7vHnfGrfuINHfmYeISUTUhj8eXkiacdk4oGPfvwicpMgXm67MicTNV6v9tM0zxdKCjdsrl9Vvaw/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
 
-
-
 **功能：信息源属性分类。**
 
 接收信息，对信息源属性进行初步分析、梳理、归类成不同级别，按先后、主次进行分类。
@@ -521,8 +499,6 @@ T组的影响主要是对连接过程制造混乱、变形、影响信息传输�
  
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/baVxVzY2FC23Lc7vHnfGrfuINHfmYeISg3ic5GYfm5VjkeSHuFX1jDLRwqEsgrC96RrfFDzcx710N5wvezdv2xA/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
 
 ### 第3对：
 
@@ -682,8 +658,6 @@ XYZ三个数值有三条线，形成三角形连线（图中红线组成的三�
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/baVxVzY2FC23Lc7vHnfGrfuINHfmYeIShIhjDicqOicia2hn0dVt1sh4lYibBO1bNxuue7mJ7qb0DGAxN2LJibXRaVg/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
 
-
-
 **抑制参数：**
 
 人类平均：90%。
@@ -724,13 +698,7 @@ XYZ三个数值有三条线，形成三角形连线（图中红线组成的三�
 
 **破解要点**：整体破解。内力：单独提高原始数值，自然破解。 外力：如上。
 
-
-
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/baVxVzY2FC23Lc7vHnfGrfuINHfmYeISKt7sSNGzvcYXDmdbac4B5bzDEUt97gZqQDTbVr8rtia1MtGa3ozDCng/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
-
-
 
 **抑制参数**：
 
@@ -990,7 +958,7 @@ T组在此做了手脚，使摆动不自由，使摆动幅度变小。具体是�
 
 *注1：本文内检测数据均为2019年6-10月期间的数据。
 
-*注2：部分被检测者的当年意识强度检测值，可对照参考元吾氏博文[《意识强度检测点：抽样检测数据样本20190317》.](http://mp.weixin.qq.com/s?__biz=MzAwNzU5MTY5Ng==&mid=2649570069&idx=1&sn=f2eb258b93c457fc635163028eb807f3&chksm=8362596ab415d07cdc433b4717963c57cb90c306f5a5d9779e0b006d98606a4800e9a82df8e6&scene=21#wechat_redirect)
+*注2：部分被检测者的当年意识强度检测值，可对照参考元吾氏博文[《意识强度检测点：抽样检测数据样本20190317》.](https://mp.weixin.qq.com/s?mid=2649570069&idx=1&sn=f2eb258b93c457fc635163028eb807f3)
 
  
 

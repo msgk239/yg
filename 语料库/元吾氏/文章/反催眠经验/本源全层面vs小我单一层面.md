@@ -26,11 +26,7 @@
 
 如同看电视只看单一频道，不知道还有其它无数个频道的丰富节目。
 
-
-
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/baVxVzY2FC3hUkRJ0z1fa7YEVqroOxicM4szXicUIdRJ23JqeRhgE7f26clfMJlkPiaCnpd8bs8elpTGGic2prsKBQ/640?wx_fmt=png&wxfrom=13&tp=wxpic)
-
-
 
 从每一个层面观察，都是一个真相，到底有多少个真相？
 
@@ -50,11 +46,7 @@
 
 ## 2）即使同样的小我也有不同的单一层面问题：
 
-
-
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/baVxVzY2FC3hUkRJ0z1fa7YEVqroOxicMk4icBgHMstibqT5moTRNibV1cL2NUSJACN1eXPj9LBRBDhickuzDNm5iaJA/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
 
 从每一个层面观察，都是一个真相，到底有多少个真相？
 
