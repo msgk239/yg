@@ -1,90 +1,6 @@
-#  《ALIEN INTERVIEW》外星人访谈
-[OCR]
-可以选择语音播放↑
-↑↑点击上方耳机标志
-6
-[结束]
+# 《ALIEN INTERVIEW》外星人访谈
 
-送两首已经修正的古零原创歌曲：[（歌词点这里）
-](https://mp.weixin.qq.com/s?biz=MzkwMTQwMzExNQ==&mid=2247487028&idx=1&sn=a9a3f788348f4074e15a2f279625c7c6&scene=21#wechat_redirect)
-
-[OCR]
-ALIEN NTERVIEW
-ngell HailnRer
-Retmr
-AE ClaimsArmy
-IRAAFCaptures
-ATMOF
-n.s.ao
-ptures Flying Saucer IsSfacking
-awhich
-194
-ot.n09t.1.
-CourtsMarfial
-OnRanchin.Ros
-in Roswell Region E eneSenatar
-sap.or the stars  Dadsgak
-ALTINTER
-'sob
-on SPOR
-n arang MEPON
-shawslane
-TOPSECRET
-alecRs
-hoee
-C
-canyon TOP SBORPT
-og
-399900924390
-Orricial rransoriptof theU.S.ArmyAir Fo MONDAY.JULY7,1947 seceecce
-riptor the U.S.Army Air Po PRICE2d
-24PAGES
-atar
-creeercc
-eret
-fcere
-FOWRSTION
-Roowell ArayAirPield,50gthBombGroup
-rPield,509thBoabGroup 500065000866256000600
-INTBRVIEW,9.7.1947
-SUBJECT:ALIBNINTERVIEW,9.7.1947
-Flying sancers' to
-IN HIS YOUTH
-By the time the alien n.MeMk
-"QuEseIOn-Can you showus on amapof the stars be hunted down
-had been returned to n8M le the star or your home planet?
-the base l had aready BASEDONDOCUMENTS
-Mysteryhas spent several hours PROVIDED BY: U'sbaffled ANSWER-As1
-with her.
-NewYeck (AAP)
-MATILDA mentioned,Mr.Cavitt
-NO.
-told me to stau ODONNELL the alien, si
-This is not.becauseshe does not know the directios MACELROY
-theone fron Earth to her honeplanet.She was unwilling uswho PSBORET reveal the location. It was also dueto the fact ti hercomm the star systen of her home planet does not exist  tricialT coudnot star mapon Barth.Itistoo far away.
-owell  abityto UBJRCT: with the be BE3PTON neverbefore the star
-ofth
-experieneed
-TERVIEW. 509t2
-
-0.
-ANSWBR communication A 41
-
-9.7.1947
-anyone,
-Por
-Gr
-NO
-he18Dtce0 EDITEDBY:
-tron Earth to her hone xdWehn
-revesl the location.
-LAWRENCERSPENCER daeDibts Auayefoece
-Be lwn Bedte
-the atar systea of he atedbyFall
-Coing we oCm
-otar mp on Barth. AUTHOROF THE OZ FACTORS
-QUR8TTON-HOW19 ow bere
-[结束]
+送两首已经修正的古零原创歌曲：[（歌词点这里）](https://mp.weixin.qq.com/s?biz=MzkwMTQwMzExNQ%3D%3D&mid=2247487028&idx=1&sn=a9a3f788348f4074e15a2f279625c7c6)
 
 《ALIENINTERVIEW》外星人访谈
 
@@ -97,16 +13,6 @@ QUR8TTON-HOW19 ow bere
 在事发地发现了一个存活的外星人，名叫艾罗，之后跟它交流出了一堆颠覆认知的“内幕”。
 艾罗自称是“同领地”的军官，这是个掌控宇宙四分之一区域的跨星系文明联盟。它不是血肉之躯，而是用精神力操控着一具灰皮肤、不用吃喝的“
 电子替身”，这躯体对它来说就像个定制工具壳。
-
-[OCR]
-AI生成
-1947
-cda Rosr
-1947
-Roswel
-197
-ALIEN NTERVIEW（外星人访谈
-[结束]
 
 按艾罗的说法，一探地球的“真相”：
 
@@ -162,28 +68,14 @@ ALIEN NTERVIEW（外星人访谈
 “记忆清除装置”（更新：天网+电网系统）
 
 资料回顾：
-[突破天网的时刻
-](https://mp.weixin.qq.com/s?biz=MzkwMTQwMzExNQ==&mid=2247486072&idx=1&sn=7ac0660b433b73f830187edfa2d0d7d1&scene=21#wechat_redirect)
-[古零潜催-2025星际意识
-](https://mp.weixin.qq.com/s?biz=MzkwMTQwMzExNQ==&mid=2247485839&idx=1&sn=be432b1d87f3c501ce53705ee4d38fbe&scene=21#wechat_redirect)
-[《1947罗斯威尔外星人访谈录》
-](https://mp.weixin.qq.com/s?biz=MzAwNzU5MTY5Ng==&mid=2649572275&idx=1&sn=37bc5c2775d90d5a7d9c62b5bf616b4e&scene=21#wechat_redirect)
-[《外星人访谈》番外篇之《同领地远征军救援任务》
-](https://mp.weixin.qq.com/s?biz=MzAwNzU5MTY5Ng==&mid=2649572279&idx=1&sn=e699da4959c66b38978278d0f18981f5&scene=21#wechat_redirect)
+[突破天网的时刻](https://mp.weixin.qq.com/s?biz=MzkwMTQwMzExNQ%3D%3D&mid=2247486072&idx=1&sn=7ac0660b433b73f830187edfa2d0d7d1)
+[古零潜催-2025星际意识](https://mp.weixin.qq.com/s?biz=MzkwMTQwMzExNQ%3D%3D&mid=2247485839&idx=1&sn=be432b1d87f3c501ce53705ee4d38fbe)
+[《1947罗斯威尔外星人访谈录》](https://mp.weixin.qq.com/s?biz=MzAwNzU5MTY5Ng%3D%3D&mid=2649572275&idx=1&sn=37bc5c2775d90d5a7d9c62b5bf616b4e)
+[《外星人访谈》番外篇之《同领地远征军救援任务》](https://mp.weixin.qq.com/s?biz=MzAwNzU5MTY5Ng%3D%3D&mid=2649572279&idx=1&sn=e699da4959c66b38978278d0f18981f5)
 最新资讯：古零潜催13期
-[古零潜催技术培训课第13期初级班上线
-](https://mp.weixin.qq.com/s?biz=MzkwMTQwMzExNQ==&mid=2247487167&idx=1&sn=97a08fe7c23508d694f5646c9bf24805&scene=21#wechat_redirect)
-[欢迎加群（点这里）
-](https://mp.weixin.qq.com/s?biz=MzkwMTQwMzExNQ==&mid=2247486097&idx=1&sn=e8a17e8af73742c78ee6db8548deae8f&scene=21#wechat_redirect)
+[古零潜催技术培训课第13期初级班上线](https://mp.weixin.qq.com/s?biz=MzkwMTQwMzExNQ%3D%3D&mid=2247487167&idx=1&sn=97a08fe7c23508d694f5646c9bf24805)
+[欢迎加群（点这里）](https://mp.weixin.qq.com/s?biz=MzkwMTQwMzExNQ%3D%3D&mid=2247486097&idx=1&sn=e8a17e8af73742c78ee6db8548deae8f)
 ，一起分享讨论，交流学习
-
-[OCR]
-助理：石龙
-助理：心晴
-扫码桥加课程助理
-古零潜意识催眠
-古零
-[结束]
 
 古零原创歌曲——同领地专题
 远古的风低吟诉说，那颗蔚蓝星球的脉搏
